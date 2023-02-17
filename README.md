@@ -30,3 +30,5 @@
   <a href="https://www.linkedin.com/in/helder-juan-933957264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="40em"></a> 
   
 </div>
+
+![snake gif](https://github.com/helderjuann/helderjuann/blob/output/github-contribution-grid-snake.svg)
