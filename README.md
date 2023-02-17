@@ -13,9 +13,8 @@
 <div>
   
   <a href="https://github.com/helderjuann">
-  <img height="157em" align "left" src="https://github-readme-stats.vercel.app/api?username=helderjuann&show_icons=true&theme=nightowl"/>
-  <img height="157em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helderjuann&layout=compact&theme=nightowl"/>
-
+  <img height="160em" align "center" src="https://github-readme-stats.vercel.app/api?username=helderjuann&show_icons=true&theme=nightowl"/>
+ 
 </div> <!-- dentro dessa div fica o GitHub stats, você só precisa copiar e mudar o username -->
 
 ##
