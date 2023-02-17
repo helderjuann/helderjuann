@@ -2,12 +2,12 @@
 
 <img align="right" alt="Noob" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/124900375/219742025-f00be625-2aa7-4e33-a1e8-543dda9895f0.gif?width=468&height=468 width=676&height=676">
 
-- 
-- 💜 Apaixonado por tecnologia ☂️
-- 🔮 Cursando Ciência da Computação 👾      
-- 🍇 Estudando React JS 🍇
-- 👾 HTML, CSS, JavaScript e PHP 🔮
-- 
+- ☂️ Helder | 20 Anos | SP/ZS
+- 💜 Apaixonado por tecnologia 
+- 🔮 Cursando Ciência da Computação    
+- 🍇 Estudando React JS 
+- 👾 HTML, CSS, JavaScript e PHP 
+- console.log("it’s an undocumented feature");
 
 ##
 
