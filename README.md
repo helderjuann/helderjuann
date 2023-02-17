@@ -3,7 +3,7 @@
 - 💜 Apaixonado por tecnologia ☂️
 - 🔮 Cursando Ciência da Computação 👾
 - 🍇 Estudando React JS 🍇
-- 👾 Conhecimento em HTML, CSS, JavaScript e PHP 🔮
+- 👾 HTML, CSS, JavaScript e PHP 🔮
 - ☂️ Futuro Desenvolvedor Full Stack 💜
 
 ##
