@@ -1,4 +1,5 @@
-##
+## Hi there! 👋
+
 - 💜 Paixão por tecnologia ☂️
 - 🔮 Cursando Ciência da Computação 👾
 - 🍇 Estudando React JS 🍇
