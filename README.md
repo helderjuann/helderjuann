@@ -21,8 +21,8 @@
 
 <div align="center">  <!-- dentro dessa div tem os icons das redes sociais que você pode colocar a que quiser e mudar a cor também! -->
   
-  <a href="https://instagram.com/helderprado7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9370DB?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="35em"></a>
-  <a href = "mailto:contatohelderjuan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-9370DB?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="35em"></a>
-  <a href="https://www.linkedin.com/in/helder-juan-933957264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="35em"></a> 
+  <a href="https://instagram.com/helderprado7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9370DB?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="40em"></a>
+  <a href = "mailto:contatohelderjuan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-9370DB?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="40em"></a>
+  <a href="https://www.linkedin.com/in/helder-juan-933957264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="40em"></a> 
   
 </div>
