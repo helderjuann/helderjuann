@@ -1,18 +1,19 @@
-<div align ="center">
-
+##
 - 💜 Paixão por tecnologia ☂️
 - 🔮 Cursando Ciência da Computação 👾
 - 🍇 Estudando React JS 🍇
 - 👾 Conhecimento em HTML, CSS, JavaScript e PHP 🔮
 - ☂️ Futuro Desenvolvedor Full Stack 💜
-  
- </div>
 
-<div align="center"> <!-- Fiquem à vontade para copiar o código se quiserem <3 -->
+##
+
+<!-- Fiquem à vontade para copiar o código se quiserem <3 -->
+
+<div>
   
   <a href="https://github.com/helderjuann">
-  <img height="157em" src="https://github-readme-stats.vercel.app/api?username=helderjuann&show_icons=true&theme=nightowl"/>
-  <img height="157em" src="https://github-readme-stats.vercel.app/api?username=helderjuann&show_icons=true&theme=nightowl"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=helderjuann&show_icons=true&theme=nightowl"/>
+  <img height="122em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helderjuann&layout=compact&theme=nightowl"/>
 
 </div> <!-- dentro dessa div fica o GitHub stats, você só precisa copiar e mudar o username -->
 
