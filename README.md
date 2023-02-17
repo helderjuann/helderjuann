@@ -1,16 +1,19 @@
-### Hi there 👋
+<div style="display: inline_block"><br>
 
-<!--
-**helderjuann/helderjuann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![helderjuann GitHub stats](https://github-readme-stats.vercel.app/api?username=helderjuann&show_icons=true&theme=nightowl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helderjuann&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+- 💜 Paixão por tecnologia
+- 🔮 Cursando Ciência da Computação
+- 🍇 Estudando React JS
+- 👾 Conhecimento em HTML, CSS, JavaScript e PHP
+- ☂️ Buscando oportunidades
+
+<div> 
+  <a href="https://instagram.com/helderprado7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9370DB?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/helder-juan-933957264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
