@@ -12,18 +12,18 @@
 
 ##
 
-<!-- Fiquem à vontade para copiar o código se quiserem <3 -->
+<!-- Fiquem à vontade para copiar o código se quiserem <3 --> <!-- dentro dessa div fica o GitHub stats, você só precisa copiar e mudar o username -->
 
 <div align="center">
   
   <a href="https://github.com/helderjuann">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=helderjuann&show_icons=true&theme=nightowl"/>
  
-</div> <!-- dentro dessa div fica o GitHub stats, você só precisa copiar e mudar o username -->
+</div> 
 
 ##
 
-<div align="center">  <!-- dentro dessa div tem os icons das redes sociais que você pode colocar a que quiser e mudar a cor também! -->
+<div align="center">  <!-- dentro dessa div tem os icons das redes sociais que você pode colocar a que quiser e mudar a cor também alterando somente o id! -->
   
   <a href="https://instagram.com/helderprado7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9370DB?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="40em"></a>
   <a href = "mailto:contatohelderjuan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-9370DB?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="40em"></a>
