@@ -5,7 +5,7 @@
 - ☂️ Helder | 21 Anos | SP/ZS
 - 💜 Apaixonado por tecnologia 
 - 🔮 Cursando Ciência da Computação    
-- 👾 HTML, CSS, JavaScript e PHP 
+- 👾 Front-end Development
 - console.log("it’s an undocumented feature");
 
 
