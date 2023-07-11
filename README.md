@@ -11,11 +11,7 @@
 
 ##
 
-<!-- Fiquem à vontade para copiar o código se quiserem <3 --> <!-- dentro dessa div fica o GitHub stats, você só precisa copiar e mudar o username -->
-
 <div align="center">
-  
   <a href="https://github.com/helderjuann">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=helderjuann&show_icons=true&theme=nightowl"/>
- 
 </div> 
