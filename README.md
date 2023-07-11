@@ -11,7 +11,7 @@
 
 ##
 
-<div align="center">
+<div>
   <a href="https://github.com/helderjuann">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=helderjuann&show_icons=true&theme=nightowl"/>
 </div> 
