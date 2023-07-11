@@ -5,7 +5,7 @@
 - ☂️ Helder | 21 Anos
 - 💜 Apaixonado por tecnologia 
 - 🔮 Cursando CC   
-- 👾 Front-end Development
+- 👾 Front-end Developer
 - console.log("it’s an undocumented feature");
 
 
