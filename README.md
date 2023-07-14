@@ -4,7 +4,7 @@
 
 - ☂️ Helder | 21 Anos
 - 💜 Apaixonado por tecnologia 
-- 🔮 Cursando CC   
+- 🔮 Coding and Studing - Windows/Linux
 - 👾 Junior Front-end Developer
 - 🫐 Modder de alguns jogos (.lua)
 - console.log("it’s an undocumented feature");
