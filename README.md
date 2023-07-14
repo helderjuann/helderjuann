@@ -6,6 +6,7 @@
 - 💜 Apaixonado por tecnologia 
 - 🔮 Cursando CC   
 - 👾 Junior Front-end Developer
+- 🫐 Modder de alguns jogos (.lua)
 - console.log("it’s an undocumented feature");
 
 
