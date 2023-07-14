@@ -6,7 +6,7 @@
 - 💜 Apaixonado por tecnologia 
 - 🔮 Coding and Studing - Windows/Linux
 - 👾 Junior Front-end Developer
-- 🫐 Modder de alguns jogos (.lua)
+- 🫐 Modder de alguns jogos (lua, node.js and python)
 - console.log("it’s an undocumented feature");
 
 
