@@ -4,7 +4,7 @@
 
 - ☂️ Helder | 21y
 - 🔮 Coding and Studing - Linux/Windows
-- 👾 Junior Front-end Developer | Pentest
+- 👾 Junior Front-end Developer | Pentest E.H
 - 💜 Modder of some games (lua, node.js and python)
 - console.log("it’s an undocumented feature");
 
