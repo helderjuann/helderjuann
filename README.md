@@ -5,7 +5,7 @@
 - ☂️ Helder | 21y
 - 🔮 Coding and Studing - Linux/Windows
 - 👾 Junior Front-end Developer | Future Back-end
-- 💜 Modder of some games (c++, lua and python)
+- 💜 Modder of some games (C++, lua and Python)
 - console.log("it’s an undocumented feature");
 
 
